@@ -7,4 +7,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-Describe your project.
+This is an analysis of human spinal cord bulk RNA-seq. 
+
+[DESeq2](DESeq2.html)
